@@ -1,0 +1,7 @@
+transformers
+sentencepiece
+pymongo
+beautifulsoup4
+requests
+python-dotenv
+torch
