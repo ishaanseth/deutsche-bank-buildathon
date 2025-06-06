@@ -1,7 +1,7 @@
 # LiquiFin
 
 ## Description
-LiquiFin is a news scraper for a specific company/sector which then goes to AI for sentiment analysis and finally is presented in the frontend website showing if the news are good or bad, and then provide suggestions like if you should invest or liquidate your assets on that company.
+LiquiFin is a news scraper for a specific company/sector which then goes to AI for sentiment analysis and finally is presented in the frontend website showing if the news are good or bad, and then provide suggestions like if you should invest or liquidate your assets on that company. Developed by Aniruddh Krishna, Ishaan Seth, Nishanth Dipali, Sagar Bag, Rishab Dotasara and Soham Shaw
 
 ## Buildathon Achievement
 Won 2nd Place in the Deutsche Bank AI-Finance Buildathon (Problem Statement 3).
