@@ -13,7 +13,7 @@ Won 2nd Place in the Deutsche Bank AI-Finance Buildathon (Problem Statement 3).
 - **Frontend:** Next.js
 - **Backend:** Python (Jupyter Notebook)
 - **Database:** MongoDB
-- **AI/Sentiment Analysis:** DistilBERT
+- **AI/Sentiment Analysis:** BART
 
 ## Core Features
 - Scrapes news for a specific company or sector.
